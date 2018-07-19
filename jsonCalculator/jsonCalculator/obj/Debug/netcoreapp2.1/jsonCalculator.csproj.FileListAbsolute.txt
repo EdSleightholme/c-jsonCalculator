@@ -1,0 +1,11 @@
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\bin\Debug\netcoreapp2.1\jsonCalculator.deps.json
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\bin\Debug\netcoreapp2.1\jsonCalculator.runtimeconfig.json
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\bin\Debug\netcoreapp2.1\jsonCalculator.runtimeconfig.dev.json
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\bin\Debug\netcoreapp2.1\jsonCalculator.dll
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\bin\Debug\netcoreapp2.1\jsonCalculator.pdb
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\obj\Debug\netcoreapp2.1\jsonCalculator.csprojAssemblyReference.cache
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\obj\Debug\netcoreapp2.1\jsonCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\obj\Debug\netcoreapp2.1\jsonCalculator.AssemblyInfoInputs.cache
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\obj\Debug\netcoreapp2.1\jsonCalculator.AssemblyInfo.cs
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\obj\Debug\netcoreapp2.1\jsonCalculator.dll
+C:\Users\Ed\Documents\Calcuator\c#jsonCalculator\c-jsonCalculator\jsonCalculator\jsonCalculator\obj\Debug\netcoreapp2.1\jsonCalculator.pdb
